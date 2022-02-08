@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @13ThirtySeven
 - 👀 I’m interested in Javascript in general and NodeJS is my dear pal.
-- 🌱 I’m currently learning different techs but most of the techs i'm learning has something to do with the amazing and powerful JAVASCRIPT, so mainly, currently i'm investing a precious time studying ExpressJS in depth to be able to build firm, secured, concise and well documented RESTful API services, that could contribute to some meaningful future projects.
+- 🌱 I’m currently learning different techs but most of the techs i'm learning have something to do with the amazing and powerful JAVASCRIPT, so mainly, currently i'm investing a precious time studying ExpressJS in depth to be able to build firm, secured, concise and well documented RESTful API services, that could contribute to some meaningful future projects.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... You could reach me on i13ThirtySeven@hotmail.com
 
